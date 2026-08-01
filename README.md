@@ -451,3 +451,30 @@ A social media mobile application clone developed as a capstone project, impleme
 </picture>
 
 </div>
+# 🏷️ Core Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF4ECD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Automation-EC4899?style=for-the-badge"/>
+
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square"/>
+
+</p>
