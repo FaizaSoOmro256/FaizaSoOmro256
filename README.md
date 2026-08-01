@@ -67,4 +67,71 @@ I work with modern AI technologies including:
 - 📊 Data Analytics & Predictive Modeling
 - ⚙️ AI-powered Full Stack Applications
 
----
+<h1 align="center">⚡ Technical Arsenal</h1>
+
+<h1 align="center">⚡ Technical Arsenal</h1>
+
+<table>
+<tr>
+
+<td align="center" width="16%">
+<h2>🤖</h2>
+<b>AI CORE</b>
+<br>
+Python<br>
+ML<br>
+Deep Learning
+</td>
+
+
+<td align="center" width="16%">
+<h2>🧠</h2>
+<b>GEN AI</b>
+<br>
+LLMs<br>
+RAG<br>
+Agents
+</td>
+
+
+<td align="center" width="16%">
+<h2>🌐</h2>
+<b>STACK</b>
+<br>
+React<br>
+FastAPI<br>
+Django
+</td>
+
+
+<td align="center" width="16%">
+<h2>📊</h2>
+<b>DATA</b>
+<br>
+Pandas<br>
+NLP<br>
+Vision
+</td>
+
+
+<td align="center" width="16%">
+<h2>☁️</h2>
+<b>DEPLOY</b>
+<br>
+GitHub<br>
+Cloud<br>
+APIs
+</td>
+
+
+<td align="center" width="16%">
+<h2>🛠️</h2>
+<b>TOOLS</b>
+<br>
+Git<br>
+VS Code<br>
+Linux
+</td>
+
+</tr>
+</table>
