@@ -254,6 +254,176 @@ A language translation tool that converts text between multiple languages throug
 </td>
 
 </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🤖 FAQ AI Chatbot</h2>
+
+<p align="center">
+<b>NLP-Based Intelligent Question Answering Assistant</b>
+</p>
+
+<p>
+An AI chatbot that understands user questions and retrieves the most relevant answers using Natural Language Processing and similarity matching techniques.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+<img src="https://img.shields.io/badge/NLP-AI-blue?style=flat">
+<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=flat">
+
+</p>
+
+✨ Features:
+- Text Preprocessing
+- Question Similarity Matching
+- Automated FAQ Responses
+- Interactive Chat Interface
+
+
+<p align="center">
+
+<a href="YOUR_FAQ_CHATBOT_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_FAQ_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
+
+</td>
+
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">📰 News Intelligence System</h2>
+
+<p align="center">
+<b>AI News Clustering & Topic Discovery Platform</b>
+</p>
+
+<p>
+A machine learning application that automatically groups similar news articles using text feature extraction and unsupervised learning.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat">
+<img src="https://img.shields.io/badge/KMeans-Clustering-purple?style=flat">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit">
+
+</p>
+
+✨ Features:
+- TF-IDF Text Vectorization
+- KMeans Clustering
+- News Categorization
+- Data Visualization Dashboard
+
+
+<p align="center">
+
+<a href="YOUR_NEWS_PROJECT_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_NEWS_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">📁 DocTrack</h2>
+
+<p align="center">
+<b>Smart Document Management System</b>
+</p>
+
+<p>
+A document tracking platform designed to organize, manage, and monitor document workflows efficiently.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Web%20Development-FullStack-blue?style=flat">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql">
+
+</p>
+
+✨ Features:
+- Document Management
+- File Tracking
+- Organized Workflow
+- Database Integration
+
+
+<p align="center">
+
+<a href="YOUR_DOCTRACK_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">📱 Facebook Clone App</h2>
+
+<p align="center">
+<b>Mobile Application Development Project</b>
+</p>
+
+<p>
+A social media mobile application clone developed as a capstone project, implementing modern mobile development concepts.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase">
+
+</p>
+
+✨ Features:
+- User Authentication
+- Social Feed
+- Firebase Integration
+- Mobile UI Development
+
+
+<p align="center">
+
+<a href="YOUR_FACEBOOK_CLONE_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+</tr>
 
 </table>
 
