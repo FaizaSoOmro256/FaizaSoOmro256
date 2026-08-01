@@ -544,24 +544,54 @@ A social media mobile application clone developed as a capstone project, impleme
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </p>
-# 🤝 Let's Connect
+
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
 
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
 <a href="https://github.com/FaizaSoOmro256">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/github/white" width="55"><br><br>
+<b>GitHub</b><br>
+Explore my repositories
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</td>
+
+<td align="center" width="25%">
+
+<a href="https://www.linkedin.com/in/faiza-shafi-muhammad-a1a92325b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn"/><br><br>
+  <b>LinkedIn</b><br>
+  Let's connect professionally
 </a>
+</td>
+
+<td align="center" width="25%">
 
 <a href="mailto:FaizaSoomro780@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"><br><br>
+<b>Email</b><br>
+Reach out anytime
 </a>
+
+</td>
+
+<td align="center" width="25%">
 
 <a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/googlechrome/8A2BE2" width="55"><br><br>
+<b>Portfolio</b><br>
+View my work
 </a>
 
-</div>
+</td>
+
+</tr>
+
+</table>
