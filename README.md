@@ -67,7 +67,7 @@ I work with modern AI technologies including:
 - 📊 Data Analytics & Predictive Modeling
 - ⚙️ AI-powered Full Stack Applications
 
-<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/assets/technical-arsenal.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/technical-arsenal.svg" width="100%"/>
 
 <h1 align="center">🚀 Featured Projects</h1>
 
