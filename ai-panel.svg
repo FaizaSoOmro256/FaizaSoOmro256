@@ -1,0 +1,48 @@
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="360" height="360" rx="25" fill="#020617"/>
+
+<rect x="15" y="15" width="330" height="330" rx="20"
+fill="none" stroke="#22D3EE" stroke-width="2"/>
+
+<text x="35" y="60" fill="#22D3EE" font-size="20" font-family="monospace">
+FAIZA_AI_CORE
+</text>
+
+<text x="35" y="105" fill="#E2E8F0" font-size="16" font-family="monospace">
+✦ Generative AI      ONLINE
+</text>
+
+<text x="35" y="140" fill="#A855F7" font-size="16" font-family="monospace">
+✦ RAG Pipeline       ACTIVE
+</text>
+
+<text x="35" y="175" fill="#22D3EE" font-size="16" font-family="monospace">
+✦ Machine Learning   READY
+</text>
+
+<text x="35" y="210" fill="#10B981" font-size="16" font-family="monospace">
+✦ Neural Networks    RUNNING
+</text>
+
+<text x="35" y="245" fill="#E2E8F0" font-size="16" font-family="monospace">
+✦ LLM Systems       CONNECTED
+</text>
+
+<text x="35" y="280" fill="#22D3EE" font-size="16" font-family="monospace">
+✦ Building AI Future
+</text>
+
+
+<circle cx="290" cy="310" r="8" fill="#22D3EE">
+<animate attributeName="opacity"
+values="1;0.2;1"
+dur="1.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<text x="35" y="320" fill="#10B981" font-size="14" font-family="monospace">
+SYSTEM ONLINE
+</text>
+
+</svg>
