@@ -72,8 +72,10 @@ I work with modern AI technologies including:
 <h1 align="center">🚀 Featured Projects</h1>
 
 <p align="center">
-A collection of AI-powered applications, machine learning systems, and full-stack solutions I have built.
+Building intelligent systems with Artificial Intelligence, Machine Learning, and Full Stack Engineering.
 </p>
+
+<br>
 
 
 <table width="100%">
@@ -85,32 +87,41 @@ A collection of AI-powered applications, machine learning systems, and full-stac
 <h2 align="center">🌱 GreenAI</h2>
 
 <p align="center">
-<b>RAG Climate Intelligence Assistant</b>
+<b>AI-Powered Climate Intelligence Assistant</b>
 </p>
 
 <p>
-An AI-powered multilingual climate assistant designed to provide sustainable actions and climate awareness using Retrieval Augmented Generation.
+GreenAI is a multilingual RAG-based climate assistant designed to provide sustainable recommendations and climate awareness using modern Generative AI technologies.
 </p>
 
 <p>
-<b>Core Technologies:</b>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat">
+<img src="https://img.shields.io/badge/RAG-AI-blue?style=flat">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+
 </p>
 
-<p>
-🐍 Python • 🧠 Llama 3.1 • 🔗 LangChain • 📚 LlamaIndex • 🌲 Pinecone • 🤗 HuggingFace • Streamlit
-</p>
-
-<p>
 ✨ Features:
-</p>
+- AI Climate Chatbot
+- Multilingual Support
+- Knowledge Retrieval System
+- Carbon Calculator
+- Sustainability Recommendations
 
-<ul>
-<li>AI Climate Chatbot</li>
-<li>Multilingual Support (English, Urdu, Sindhi)</li>
-<li>Knowledge Retrieval System</li>
-<li>Carbon Footprint Calculator</li>
-<li>Climate Recommendations</li>
-</ul>
+
+<p align="center">
+
+<a href="https://github.com/FaizaSoOmro256">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
 
 </td>
 
@@ -120,32 +131,41 @@ An AI-powered multilingual climate assistant designed to provide sustainable act
 <h2 align="center">💳 LoanScoreChecker</h2>
 
 <p align="center">
-<b>AI Credit Risk Prediction System</b>
+<b>AI Credit Risk & Loan Default Prediction System</b>
 </p>
 
 <p>
-Machine learning based underwriting system that predicts loan default risk and supports financial decision-making.
+A machine learning underwriting platform that predicts borrower risk and helps make data-driven lending decisions.
 </p>
 
 <p>
-<b>Core Technologies:</b>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react">
+
 </p>
 
-<p>
-🐍 Python • Scikit-learn • Pandas • FastAPI • React • Machine Learning
-</p>
-
-<p>
 ✨ Features:
-</p>
+- Loan Default Prediction
+- Risk Classification
+- ML Model Comparison
+- Cost Optimization Analysis
+- Interactive Dashboard
 
-<ul>
-<li>Credit Risk Prediction</li>
-<li>Loan Default Classification</li>
-<li>Risk Analysis Dashboard</li>
-<li>Model Evaluation</li>
-<li>Cost Optimization Analysis</li>
-</ul>
+
+<p align="center">
+
+<a href="https://github.com/FaizaSoOmro256/TheUnderwritingDesk-LoanScoreChecker">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
 
 </td>
 
@@ -163,27 +183,31 @@ Machine learning based underwriting system that predicts loan default risk and s
 </p>
 
 <p>
-A deep learning based music generation application that creates musical sequences using neural networks.
+Deep learning application that generates musical sequences using neural networks and sequence learning.
 </p>
 
 <p>
-<b>Core Technologies:</b>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch">
+<img src="https://img.shields.io/badge/LSTM-DeepLearning-purple?style=flat">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+
 </p>
 
-<p>
-🐍 Python • PyTorch • LSTM • MIDI Processing • Deep Learning
-</p>
-
-<p>
 ✨ Features:
-</p>
+- AI Music Generation
+- Neural Sequence Learning
+- MIDI Processing
+- Deep Learning Model
 
-<ul>
-<li>Neural Music Generation</li>
-<li>Sequence Learning</li>
-<li>MIDI Processing</li>
-<li>AI Composition</li>
-</ul>
+
+<p align="center">
+
+<a href="YOUR_AURA_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 </td>
 
@@ -193,103 +217,39 @@ A deep learning based music generation application that creates musical sequence
 <h2 align="center">🌐 Polyglot AI Translator</h2>
 
 <p align="center">
-<b>Multilingual Translation Tool</b>
+<b>Multilingual Translation Application</b>
 </p>
 
 <p>
-An interactive translation application that converts text between multiple languages using NLP and translation technologies.
+A language translation tool that converts text between multiple languages through NLP and translation APIs.
 </p>
 
 <p>
-<b>Core Technologies:</b>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask">
+<img src="https://img.shields.io/badge/NLP-AI-blue?style=flat">
+
 </p>
 
-<p>
-🐍 Python • Flask • NLP • Translation APIs
-</p>
-
-<p>
 ✨ Features:
-</p>
+- Multiple Language Support
+- Translation API Integration
+- Interactive UI
+- NLP Processing
 
-<ul>
-<li>Multi-language Translation</li>
-<li>User Friendly Interface</li>
-<li>Language Processing</li>
-<li>API Integration</li>
-</ul>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🤖 FAQ AI Chatbot</h2>
 
 <p align="center">
-<b>NLP Question Answering Assistant</b>
+
+<a href="YOUR_TRANSLATOR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge">
+</a>
+
 </p>
-
-<p>
-A smart chatbot that understands user queries and retrieves the most relevant answers using NLP similarity techniques.
-</p>
-
-<p>
-<b>Core Technologies:</b>
-</p>
-
-<p>
-Python • NLP • NLTK • Cosine Similarity
-</p>
-
-<p>
-✨ Features:
-</p>
-
-<ul>
-<li>Text Preprocessing</li>
-<li>Question Matching</li>
-<li>Automated Responses</li>
-<li>Intent Understanding</li>
-</ul>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h2 align="center">📰 News Intelligence System</h2>
-
-<p align="center">
-<b>AI News Clustering Platform</b>
-</p>
-
-<p>
-Machine learning based system that groups similar news articles using unsupervised learning techniques.
-</p>
-
-<p>
-<b>Core Technologies:</b>
-</p>
-
-<p>
-Python • TF-IDF • KMeans • Scikit-learn • Streamlit
-</p>
-
-<p>
-✨ Features:
-</p>
-
-<ul>
-<li>Text Feature Extraction</li>
-<li>News Categorization</li>
-<li>Clustering Visualization</li>
-<li>Interactive Dashboard</li>
-</ul>
 
 </td>
 
