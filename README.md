@@ -1,83 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:020617,35:0f172a,65:0369a1,100:7c3aed&text=FAIZA%20SOOMRO&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=38bdf8&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=330&color=0:020617,25:0f172a,50:164e63,75:4c1d95,100:020617&text=FAIZA%20SOOMRO&fontSize=82&fontColor=E2E8F0&animation=twinkling&fontAlignY=40"/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=AI%2FML+ENGINEER;GENERATIVE+AI+ARCHITECT;RAG+%7C+LLMs+%7C+MACHINE+LEARNING;Building+Next-Generation+AI+Systems"/>
+
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+ENGINEER;FULL+STACK+DEVELOPER;GENERATIVE+AI+BUILDER;RAG+%7C+LLMs+%7C+MACHINE+LEARNING;Building+Intelligent+Digital+Systems"/>
+<img src="https://img.shields.io/badge/⚡_AI_SYSTEMS_ACTIVE-22D3EE?style=for-the-badge&labelColor=020617"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/🧠_GENERATIVE_AI-A855F7?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING%20AI%20SYSTEMS-0ea5e9?style=for-the-badge&logo=probot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FOCUS-GENERATIVE%20AI%20%7C%20RAG%20%7C%20ML-8b5cf6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_FULL_STACK_ENGINEERING-10B981?style=for-the-badge&labelColor=020617"/>
 
 </div>
-
-# `01 // ABOUT ME`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0369a1,100:7c3aed&section=header"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Machine+Learning+%7C+Generative+AI+%7C+RAG"/>
-
-</div>
-
-
 <table>
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
-### 👩‍💻 Who I Am
+## 🧬 About Me
 
-I am **Faiza Soomro**, an **AI/ML Engineer and Full Stack Developer** focused on creating intelligent software solutions using artificial intelligence, machine learning, and modern web technologies.
+I am **Faiza Soomro**, an **AI/ML Engineer and Full Stack Developer** passionate about creating intelligent systems that combine Artificial Intelligence, Machine Learning, and modern software engineering.
 
-My work combines:
+My expertise includes:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔎 Retrieval-Augmented Generation
-- 🌐 Full Stack Development
-- 📊 Data-Driven Applications
+- 🤖 Generative AI & Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning & Deep Learning
+- 🌐 Full Stack AI Applications
+- 📊 Data Science & Intelligent Automation
 
-
-I build systems that transform complex ideas into practical products — from AI assistants and predictive models to creative generative AI applications.
-
-</td>
-
+I transform ideas into practical AI solutions — from intelligent assistants and predictive models to creative AI applications.
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J5aWZ1c3h6bGJ5N2F5c2R3dW9pNnZ0bWZ4cW1pN2Z3c3Z4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/assets/ai-panel.svg" width="360"/>
 
 </td>
 
 </tr>
 </table>
-
-
-<div align="center">
-
-## ⚡ Engineering Focus
-
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-06B6D4?style=for-the-badge&logo=chainlink&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FULL_STACK-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
-
-</div>
-
-
----
-
-<div align="center">
-
-### 🌱 Currently Exploring
