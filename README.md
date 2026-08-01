@@ -431,7 +431,10 @@ A social media mobile application clone developed as a capstone project, impleme
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizaSoOmro256&bg_color=0D1117&color=FFFFFF&line=FF4ECD&point=00E5FF&area=true&hide_border=true&radius=18"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaizaSoOmro256&show_icons=true&theme=omni&hide_border=true&border_radius=18&include_all_commits=true&count_private=true"/>
+<br><br>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaSoOmro256&layout=compact&theme=omni&hide_border=true&border_radius=18"/>
 
 <br><br>
 
