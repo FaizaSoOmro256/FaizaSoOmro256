@@ -36,9 +36,35 @@ I transform ideas into practical AI solutions — from intelligent assistants an
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/assets/ai-panel.svg" width="360"/>
+<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/ai-panel.svg" width="360"/>
 
 </td>
 
 </tr>
 </table>
+---
+
+## 🚀 AI Engineering Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-22D3EE?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-GENERATIVE%20AI-A855F7?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20SYSTEMS-10B981?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+<br>
+
+My development journey has evolved from **Full Stack Web Development** into **Artificial Intelligence and Machine Learning**, where I focus on designing intelligent applications that solve real-world problems.
+
+I work with modern AI technologies including:
+
+- 🤖 Generative AI & Large Language Models
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning Algorithms
+- 🗣️ Natural Language Processing
+- 📊 Data Analytics & Predictive Modeling
+- ⚙️ AI-powered Full Stack Applications
+
+---
