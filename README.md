@@ -431,13 +431,25 @@ A social media mobile application clone developed as a capstone project, impleme
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaizaSoOmro256&show_icons=true&theme=omni&hide_border=true&border_radius=18&include_all_commits=true&count_private=true"/>
+<!-- GitHub Stats + Streak -->
+
+
+<img height="180em" src="https://streak-stats.demolab.com?user=FaizaSoOmro256&theme=radical&hide_border=true&border_radius=15"/>
+
 <br><br>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaSoOmro256&layout=compact&theme=omni&hide_border=true&border_radius=18"/>
+<!-- Top Languages + Profile Summary -->
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaizaSoOmro256&theme=github_dark"/>
 
 <br><br>
 
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizaSoOmro256&bg_color=0D1117&color=FFFFFF&line=FF4ECD&point=00E5FF&area=true&hide_border=true"/>
+
+<br><br>
+
+<!-- Contribution Snake -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
