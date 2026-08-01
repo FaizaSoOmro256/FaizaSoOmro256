@@ -452,7 +452,25 @@ A social media mobile application clone developed as a capstone project, impleme
 
 </div>
 
-<h3 align="center">💻 Development Stack</h3>
+# 🛠️ Tech Stack
+
+<h3 align="center">🧠 Artificial Intelligence & Machine Learning</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF1493?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-3F51B5?style=flat-square"/>
+
+</p>
+
+---
+
+<h3 align="center">💻 Programming & Web Development</h3>
 
 <p align="center">
 
@@ -462,11 +480,88 @@ A social media mobile application clone developed as a capstone project, impleme
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square"/>
-<img src="https://img.shields.io/badge/WAMP-5B2C6F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 </p>
+
+---
+
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+<h3 align="center">🤖 AI Frameworks & Libraries</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square"/>
+
+</p>
+
+---
+
+<h3 align="center">🧩 Generative AI & Vector Databases</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-00BFA5?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-5E35B1?style=flat-square"/>
+
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square"/>
+<img src="https://img.shields.io/badge/WAMP-5B2C6F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/FaizaSoOmro256">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:FaizaSoomro780@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
