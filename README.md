@@ -427,3 +427,37 @@ A social media mobile application clone developed as a capstone project, impleme
 
 </table>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaizaSoOmro256&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FaizaSoOmro256&theme=radical&hide_border=true&border_radius=20"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaSoOmro256&layout=compact&theme=radical&hide_border=true&border_radius=20"/>
+
+<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaizaSoOmro256&theme=radical"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizaSoOmro256&theme=react-dark&hide_border=true&radius=18"/>
+
+</div>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FaizaSoOmro256&theme=react&bg_color=0D1117&color=FF69B4&line=00E5FF&point=FF1493&area=true&hide_border=true&radius=16"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
