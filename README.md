@@ -586,5 +586,34 @@ Coming Soon
 
 </tr>
 </table>
+</div>
+
+<h1 align="center">💼 Open to Opportunities</h1>
+
+<div align="center">
+
+🚀 AI Engineer
+
+🤖 Machine Learning Engineer
+
+💻 Full Stack Developer
+
+📊 Data Science & Analytics
+
+🌍 Open Source Collaboration
+
+🎯 Internship • Freelance • Full-Time
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,50:FF4ECD,100:00E5FF&section=footer"/>
+
+<h3>Thanks for visiting my profile! 💜</h3>
+
+<p>
+Turning ideas into intelligent solutions through AI, Machine Learning, and Full Stack Development.
+</p>
 
 </div>
