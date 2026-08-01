@@ -66,72 +66,234 @@ I work with modern AI technologies including:
 - 🗣️ Natural Language Processing
 - 📊 Data Analytics & Predictive Modeling
 - ⚙️ AI-powered Full Stack Applications
+---
+<img src="https://raw.githubusercontent.com/FaizaSoOmro256/FaizaSoOmro256/main/assets/technical-arsenal.svg" width="100%"/>
+---
+<h1 align="center">🚀 Featured Projects</h1>
 
-<h1 align="center">⚡ Technical Arsenal</h1>
+<p align="center">
+A collection of AI-powered applications, machine learning systems, and full-stack solutions I have built.
+</p>
 
-<h1 align="center">⚡ Technical Arsenal</h1>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td align="center" width="16%">
-<h2>🤖</h2>
-<b>AI CORE</b>
-<br>
-Python<br>
-ML<br>
-Deep Learning
+<td width="50%" valign="top">
+
+<h2 align="center">🌱 GreenAI</h2>
+
+<p align="center">
+<b>RAG Climate Intelligence Assistant</b>
+</p>
+
+<p>
+An AI-powered multilingual climate assistant designed to provide sustainable actions and climate awareness using Retrieval Augmented Generation.
+</p>
+
+<p>
+<b>Core Technologies:</b>
+</p>
+
+<p>
+🐍 Python • 🧠 Llama 3.1 • 🔗 LangChain • 📚 LlamaIndex • 🌲 Pinecone • 🤗 HuggingFace • Streamlit
+</p>
+
+<p>
+✨ Features:
+</p>
+
+<ul>
+<li>AI Climate Chatbot</li>
+<li>Multilingual Support (English, Urdu, Sindhi)</li>
+<li>Knowledge Retrieval System</li>
+<li>Carbon Footprint Calculator</li>
+<li>Climate Recommendations</li>
+</ul>
+
 </td>
 
 
-<td align="center" width="16%">
-<h2>🧠</h2>
-<b>GEN AI</b>
-<br>
-LLMs<br>
-RAG<br>
-Agents
-</td>
+<td width="50%" valign="top">
 
+<h2 align="center">💳 LoanScoreChecker</h2>
 
-<td align="center" width="16%">
-<h2>🌐</h2>
-<b>STACK</b>
-<br>
-React<br>
-FastAPI<br>
-Django
-</td>
+<p align="center">
+<b>AI Credit Risk Prediction System</b>
+</p>
 
+<p>
+Machine learning based underwriting system that predicts loan default risk and supports financial decision-making.
+</p>
 
-<td align="center" width="16%">
-<h2>📊</h2>
-<b>DATA</b>
-<br>
-Pandas<br>
-NLP<br>
-Vision
-</td>
+<p>
+<b>Core Technologies:</b>
+</p>
 
+<p>
+🐍 Python • Scikit-learn • Pandas • FastAPI • React • Machine Learning
+</p>
 
-<td align="center" width="16%">
-<h2>☁️</h2>
-<b>DEPLOY</b>
-<br>
-GitHub<br>
-Cloud<br>
-APIs
-</td>
+<p>
+✨ Features:
+</p>
 
+<ul>
+<li>Credit Risk Prediction</li>
+<li>Loan Default Classification</li>
+<li>Risk Analysis Dashboard</li>
+<li>Model Evaluation</li>
+<li>Cost Optimization Analysis</li>
+</ul>
 
-<td align="center" width="16%">
-<h2>🛠️</h2>
-<b>TOOLS</b>
-<br>
-Git<br>
-VS Code<br>
-Linux
 </td>
 
 </tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🎵 AURA AI</h2>
+
+<p align="center">
+<b>AI Music Generation System</b>
+</p>
+
+<p>
+A deep learning based music generation application that creates musical sequences using neural networks.
+</p>
+
+<p>
+<b>Core Technologies:</b>
+</p>
+
+<p>
+🐍 Python • PyTorch • LSTM • MIDI Processing • Deep Learning
+</p>
+
+<p>
+✨ Features:
+</p>
+
+<ul>
+<li>Neural Music Generation</li>
+<li>Sequence Learning</li>
+<li>MIDI Processing</li>
+<li>AI Composition</li>
+</ul>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">🌐 Polyglot AI Translator</h2>
+
+<p align="center">
+<b>Multilingual Translation Tool</b>
+</p>
+
+<p>
+An interactive translation application that converts text between multiple languages using NLP and translation technologies.
+</p>
+
+<p>
+<b>Core Technologies:</b>
+</p>
+
+<p>
+🐍 Python • Flask • NLP • Translation APIs
+</p>
+
+<p>
+✨ Features:
+</p>
+
+<ul>
+<li>Multi-language Translation</li>
+<li>User Friendly Interface</li>
+<li>Language Processing</li>
+<li>API Integration</li>
+</ul>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🤖 FAQ AI Chatbot</h2>
+
+<p align="center">
+<b>NLP Question Answering Assistant</b>
+</p>
+
+<p>
+A smart chatbot that understands user queries and retrieves the most relevant answers using NLP similarity techniques.
+</p>
+
+<p>
+<b>Core Technologies:</b>
+</p>
+
+<p>
+Python • NLP • NLTK • Cosine Similarity
+</p>
+
+<p>
+✨ Features:
+</p>
+
+<ul>
+<li>Text Preprocessing</li>
+<li>Question Matching</li>
+<li>Automated Responses</li>
+<li>Intent Understanding</li>
+</ul>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h2 align="center">📰 News Intelligence System</h2>
+
+<p align="center">
+<b>AI News Clustering Platform</b>
+</p>
+
+<p>
+Machine learning based system that groups similar news articles using unsupervised learning techniques.
+</p>
+
+<p>
+<b>Core Technologies:</b>
+</p>
+
+<p>
+Python • TF-IDF • KMeans • Scikit-learn • Streamlit
+</p>
+
+<p>
+✨ Features:
+</p>
+
+<ul>
+<li>Text Feature Extraction</li>
+<li>News Categorization</li>
+<li>Clustering Visualization</li>
+<li>Interactive Dashboard</li>
+</ul>
+
+</td>
+
+</tr>
+
 </table>
+
